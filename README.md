@@ -2,5 +2,5 @@
 Random coding challenges
 
 ## Challenges
-- [abbreviate numbers](./abbrv-numbers/README.md)
-- [convert numbers to text](./num-to-text/README.md)
+- [abbreviate numbers](./abbrv-numbers)
+- [convert numbers to text](./num-to-text)
