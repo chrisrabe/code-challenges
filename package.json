@@ -1,0 +1,25 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "Random coding challenges",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisrabe/code-challenges.git"
+  },
+  "keywords": [
+    "Coding",
+    "Challenge",
+    "Javascript",
+    "Algorithms"
+  ],
+  "author": "Chris Rabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisrabe/code-challenges/issues"
+  },
+  "homepage": "https://github.com/chrisrabe/code-challenges#readme"
+}
